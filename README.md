@@ -10,7 +10,7 @@ This is the development monorepo for "React Native for Web" and related projects
 * `configs`
   * Contains configuration files used by the monorepo tooling (compiling, linting, testing, etc.)
 * `packages`
-  * [react-native-web](https://github.com/necolas/react-native-web/blob/master/packages/react-native-web)
+  * [react-native-web](https://github.com/blixor/react-native-web/blob/master/packages/react-native-web)
   * Contains the individual packages managed in the monorepo.
 * `scripts`
   * Contains Node.js scripts for miscellaneous tasks.
@@ -44,6 +44,6 @@ Read the [contributing guide][contributing-url] to learn about the development p
 
 To help you get you familiar with the contribution process, there is a list of [good first issues][good-first-issue-url] that contain bugs which have a relatively limited scope. This is a great place to get started.
 
-[contributing-url]: https://github.com/necolas/react-native-web/blob/master/.github/CONTRIBUTING.md
-[good-first-issue-url]: https://github.com/necolas/react-native-web/labels/good%20first%20issue
+[contributing-url]: https://github.com/blixor/react-native-web/blob/master/.github/CONTRIBUTING.md
+[good-first-issue-url]: https://github.com/blixor/react-native-web/labels/good%20first%20issue
 [code-of-conduct]: https://opensource.fb.com/code-of-conduct/
